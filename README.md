@@ -1,5 +1,7 @@
 # SnakeGamePython
 
-## pip install graphics.py
-## pip install keyboard
-## cpip install pymsgbox
+```bash
+pip install graphics.py
+pip install keyboard
+pip install pymsgbox
+```
